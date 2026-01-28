@@ -1,4 +1,0 @@
-pandas
-unicodedata
-datetime
-difflib
