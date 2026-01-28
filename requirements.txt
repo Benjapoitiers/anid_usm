@@ -1,0 +1,4 @@
+pandas
+unicodedata
+datetime
+difflib
